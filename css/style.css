@@ -107,13 +107,13 @@ nav a:active{
     letter-spacing: 2px;
     line-height: 28px;
     text-align: center;
-    color: #4b4b4d;
+    color: #3e9d59;
 }
 
-#p1{
+/*#p1{
   margin: 0 auto;
   text-align: center;
-}
+}*/
 
 .contact{
   width: 460px;
